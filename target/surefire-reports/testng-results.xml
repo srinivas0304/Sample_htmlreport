@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11686" started-at="2022-06-16T10:34:41 IST" finished-at="2022-06-16T10:34:53 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11686" started-at="2022-06-16T10:34:41 IST" finished-at="2022-06-16T10:34:53 IST">
+      <class name="extentReport_letskodeit.SampleLoginTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:extentReport_letskodeit.SampleLoginTest@687080dc]" name="beforeClass" is-config="true" duration-ms="9898" started-at="2022-06-16T10:34:41 IST" finished-at="2022-06-16T10:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="login()[pri:0, instance:extentReport_letskodeit.SampleLoginTest@687080dc]" name="login" duration-ms="267" started-at="2022-06-16T10:34:51 IST" finished-at="2022-06-16T10:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:extentReport_letskodeit.SampleLoginTest@687080dc]" name="afterClass" is-config="true" duration-ms="1486" started-at="2022-06-16T10:34:51 IST" finished-at="2022-06-16T10:34:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- extentReport_letskodeit.SampleLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

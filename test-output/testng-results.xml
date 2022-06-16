@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34601" started-at="2022-04-22T10:10:56 IST" finished-at="2022-04-22T10:11:30 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34601" started-at="2022-04-22T10:10:56 IST" finished-at="2022-04-22T10:11:30 IST">
+      <class name="com.extentReports.Actitime">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.extentReports.Actitime@70a9f84e]" name="setup" is-config="true" duration-ms="25757" started-at="2022-04-22T10:10:56 IST" finished-at="2022-04-22T10:11:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.extentReports.Actitime@70a9f84e]" name="login" duration-ms="7894" started-at="2022-04-22T10:11:22 IST" finished-at="2022-04-22T10:11:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeB()[pri:0, instance:com.extentReports.Actitime@70a9f84e]" name="closeB" is-config="true" duration-ms="879" started-at="2022-04-22T10:11:30 IST" finished-at="2022-04-22T10:11:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeB -->
+      </class> <!-- com.extentReports.Actitime -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
